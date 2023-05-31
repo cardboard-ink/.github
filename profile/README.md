@@ -17,6 +17,8 @@
 
 - 🗨️ You can contact us at [support@cardboard.ink](mailto:support@cardboard.ink) or in our Guilded [server](https://guilded.gg/CardBoard)
 
+#
+
 <!-- Team -->
 
 ### 👥 • CardBoard Team:
