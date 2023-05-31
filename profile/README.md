@@ -15,7 +15,7 @@
 
 ### 📲 • Contact us:
 
-- 🗨️ You can contact us at [support@cardboard.ink](mailto:support@cardboard.ink) or in our Guilded [server](https://guilded.gg/CardBoard)
+- 🗨️ You can contact us at [support@cardboard.ink](mailto:support@cardboard.ink) or in our Guilded [server](https://guilded.gg/CardBoard).
 
 #
 
@@ -23,7 +23,7 @@
 
 ### 👥 • CardBoard Team:
 
-- 👑 [@sohamjaiswal](https://github.com/sohamjaiswal)
-- ⭐ [@NotAussie](https://github.com/notaussie)
-- ⭐ [@G4MN](https://github.com/g4mn)
-- ⭐ [@YumYummity](https://github.com/YumYummity)
+- 👑 [@sohamjaiswal](https://github.com/sohamjaiswal).
+- ⭐ [@NotAussie](https://github.com/notaussie).
+- ⭐ [@G4MN](https://github.com/g4mn).
+- ⭐ [@YumYummity](https://github.com/YumYummity).
