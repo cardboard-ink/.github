@@ -1,12 +1,26 @@
-## Hi there 👋
+<!-- Banner -->
+![Banner Art (Rounded)](https://github.com/cardboard-ink/.github/blob/main/art/banner-rounded.png)
 
-<!--
+#
 
-**Here are some ideas to get you started:**
+<!-- Links -->
+### 🔗 • Our links:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🗨️ Our [Guilded](https://guilded.gg/CardBoard) server.
+- 🌐 Our offical [site](https://cardboard.ink).
+
+#
+
+<!-- Contact us -->
+
+### 📲 • Contact us:
+
+- 🗨️ You can contact us at [support@cardboard.ink](mailto:support@cardboard.ink) or in our Guilded [server](https://guilded.gg/CardBoard)
+
+<!-- Team -->
+
+### 👥 • CardBoard Team:
+
+- 👑 [@sohamjaiswal](https://github.com/sohamjaiswal)
+- ⭐ [@NotAussie](https://github.com/notaussie)
+- ⭐ [@G4MN](https://github.com/g4mn)
