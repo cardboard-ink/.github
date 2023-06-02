@@ -3,9 +3,10 @@
 
 #
 
-<!-- AD -->
-
-![AD](https://ad-service.notaussie.repl.co/ads/github)
+<!-- Random Banner -->
+<a href="https://prism.notaussie.repl.co/">
+  <img src="https://prism.notaussie.repl.co/content-github">
+</a>
 
 #
 
