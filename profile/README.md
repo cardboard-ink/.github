@@ -3,6 +3,12 @@
 
 #
 
+<!-- AD -->
+
+![AD](https://ad-service.notaussie.repl.co/ads/github)
+
+#
+
 <!-- Links -->
 ### 🔗 • Our links:
 
