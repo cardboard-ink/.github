@@ -3,13 +3,6 @@
 
 #
 
-<!-- Random Banner -->
-<a href="https://prism.notaussie.repl.co/">
-  <img src="https://prism.notaussie.repl.co/content-github">
-</a>
-
-#
-
 <!-- Links -->
 ### 🔗 • Our links:
 
