@@ -26,4 +26,3 @@
 - 👑 [@sohamjaiswal](https://github.com/sohamjaiswal).
 - ⭐ [@NotAussie](https://github.com/notaussie). <!-- - ⭐ [@G4MN](https://github.com/g4mn). -->
 - ⭐ [@YumYummity](https://github.com/YumYummity).
-- 🤖 [@AussieBot](https://github.com/AussieBot) [BOT].
