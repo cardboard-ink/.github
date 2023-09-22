@@ -24,5 +24,5 @@
 ### 👥 • CardBoard Team:
 
 - 👑 [@sohamjaiswal](https://github.com/sohamjaiswal).
-- ⭐ [@NotAussie](https://github.com/notaussie). <!-- - ⭐ [@G4MN](https://github.com/g4mn). -->
+- ⭐ [@NotAussie](https://github.com/notaussie).
 - ⭐ [@YumYummity](https://github.com/YumYummity).
