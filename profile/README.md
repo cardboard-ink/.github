@@ -23,6 +23,6 @@
 
 ### 👥 • CardBoard Team:
 
-- 👑 [@sohamjaiswal](https://github.com/sohamjaiswal).
+- 👑 [@sohamjaiswal](https://github.com/sohamjaiswal)/[@sosweetham](https://github.com/sosweetham).
 - ⭐ [@NotAussie](https://github.com/notaussie).
 - ⭐ [@YumYummity](https://github.com/YumYummity).
